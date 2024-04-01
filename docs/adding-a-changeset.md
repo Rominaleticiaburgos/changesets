@@ -1,4 +1,4 @@
-# Adding a changeset
+# Addingt a changese
 
 Hi! You might be here because a person or a bot has asked you to 'add a changeset' to a project. Let's walk through adding a changeset. But first, what is a changeset?
 
@@ -69,3 +69,4 @@ Changesets are designed to stack, so there's no problem with adding multiple. Yo
 ## I want to know more about changesets
 
 [here is a more in-depth explanation](https://github.com/changesets/changesets/blob/main/docs/detailed-explanation.md)
+# Adding a changeset
